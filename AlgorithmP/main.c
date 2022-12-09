@@ -1,6 +1,8 @@
 #include "stdio.h"
 #include "Windows.h"
+#include "stdlib.h"
 
+int student[16] = {"1번", "2번", "3번", "4번", "5번", "6번", "7번", "8번", "9번", "10번", "11번", "12번", "13번", "14번", "15번", "16번"}
 double sec = 3;
 void timeBomb(double s)
 {
@@ -23,8 +25,13 @@ void timeBomb(double s)
     timeBomb(s - 0.1);
 }
 
+void number(100) {
+
+}
 
 int main(void) {
     timeBomb(sec);
-    return 0; //어쩔티비
+    number(100);
+    printf("%d", student);
+    return 0;
 }

@@ -1,0 +1,3 @@
+﻿1>------ 빌드 시작됨: 프로젝트: AlgorithmP, 구성: Debug|Win32 ------
+1>C:\Users\user\Source\Repos\AlgorithmP\AlgorithmP\AlgorithmP.vcxproj(20,2): error MSB4025: 프로젝트 파일을 로드할 수 없습니다. 이름은 '<' 문자, 16진수 값 0x3C(으)로 시작할 수 없습니다. 줄 20, 위치 2
+========== 빌드: 0개 성공, 1개 실패, 0개 최신 상태, 0개 건너뜀 ==========
